@@ -1,0 +1,1 @@
+const t={key:"v-388c7174",path:"/common-threats/ssti/ssti-angular.html",title:"5.3 SSTI Protection in Angular",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1666265318e3,contributors:[{name:"a663352",email:"sara.mourad@worldline.com",commits:1}]},filePathRelative:"common-threats/ssti/ssti-angular.md"};export{t as data};
